@@ -1,0 +1,13 @@
+{
+  "name": "rasindu-devops-journey",
+  "version": "1.0.0",
+  "description": "Hands-on DevOps learning with Git, Docker, CI/CD, and cloud tools",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "keywords": ["devops", "docker", "ci-cd", "kubernetes"],
+  "author": "Rasindu Sandeep",
+  "license": "MIT"
+}
